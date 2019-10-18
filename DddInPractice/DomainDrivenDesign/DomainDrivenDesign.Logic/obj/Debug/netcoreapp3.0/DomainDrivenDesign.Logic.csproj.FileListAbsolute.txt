@@ -1,0 +1,7 @@
+D:\Program Files\GitHub\PluralSightApps\DddInPractice\DomainDrivenDesign\DomainDrivenDesign.Logic\bin\Debug\netcoreapp3.0\DomainDrivenDesign.Logic.deps.json
+D:\Program Files\GitHub\PluralSightApps\DddInPractice\DomainDrivenDesign\DomainDrivenDesign.Logic\bin\Debug\netcoreapp3.0\DomainDrivenDesign.Logic.dll
+D:\Program Files\GitHub\PluralSightApps\DddInPractice\DomainDrivenDesign\DomainDrivenDesign.Logic\bin\Debug\netcoreapp3.0\DomainDrivenDesign.Logic.pdb
+D:\Program Files\GitHub\PluralSightApps\DddInPractice\DomainDrivenDesign\DomainDrivenDesign.Logic\obj\Debug\netcoreapp3.0\DomainDrivenDesign.Logic.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\PluralSightApps\DddInPractice\DomainDrivenDesign\DomainDrivenDesign.Logic\obj\Debug\netcoreapp3.0\DomainDrivenDesign.Logic.AssemblyInfo.cs
+D:\Program Files\GitHub\PluralSightApps\DddInPractice\DomainDrivenDesign\DomainDrivenDesign.Logic\obj\Debug\netcoreapp3.0\DomainDrivenDesign.Logic.dll
+D:\Program Files\GitHub\PluralSightApps\DddInPractice\DomainDrivenDesign\DomainDrivenDesign.Logic\obj\Debug\netcoreapp3.0\DomainDrivenDesign.Logic.pdb

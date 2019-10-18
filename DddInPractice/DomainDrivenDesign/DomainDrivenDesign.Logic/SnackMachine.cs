@@ -4,13 +4,13 @@ using static DomainDrivenDesign.Logic.Money;
 
 namespace DomainDrivenDesign.Logic
 {
-    public sealed class SnackMachine : Entity
+    public class SnackMachine : Entity
     {
-        public Money MoneyInSide { get; private set; } = None;
+        public virtual Money MoneyInSide { get; protected set; } = None;
 
-        public Money MoneyInTransaction { get; private set; } = None;
+        public virtual Money MoneyInTransaction { get; protected set; } = None;
 
-        public void InsertMoney(Money money)
+        public virtual void InsertMoney(Money money)
         {
             Money[] coinsAndNotes =
             {
@@ -22,12 +22,12 @@ namespace DomainDrivenDesign.Logic
             MoneyInTransaction += money;
         }
 
-        public void ReturnMoney()
+        public virtual void ReturnMoney()
         {
             MoneyInTransaction = None;
         }
 
-        public void BuySnack()
+        public virtual void BuySnack()
         {
             MoneyInSide += MoneyInTransaction;
             MoneyInTransaction = None;
