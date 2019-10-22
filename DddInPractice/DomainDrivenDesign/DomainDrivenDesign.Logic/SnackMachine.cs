@@ -45,18 +45,31 @@ namespace DomainDrivenDesign.Logic
             MoneyInTransaction = 0;
         }
 
+        public virtual string CanBuySnack(int position)
+        {
+            SnackPile snackPile = GetSnackPile(position);
+
+            if (snackPile.Quantity == 0)
+                return "The snack pile is empty";
+
+            if (MoneyInTransaction < snackPile.Price)
+                return "Not enough money";
+
+            if (!MoneyInSide.CanAllocate(MoneyInTransaction - snackPile.Price))
+                return "Not enough change";
+
+            return string.Empty;
+        }
+
         public virtual void BuySnack(int position)
         {
-            Slot slot = GetSlot(position);
-            if (slot.SnackPile.Price > MoneyInTransaction)
+            if (CanBuySnack(position) != string.Empty)
                 throw new InvalidOperationException();
 
+            Slot slot = GetSlot(position);
             slot.SnackPile = slot.SnackPile.SubtractOne();
 
             Money change = MoneyInSide.Allocate(MoneyInTransaction - slot.SnackPile.Price);
-            if (change.Amount < MoneyInTransaction - slot.SnackPile.Price) 
-                throw new InvalidOperationException();
-
             MoneyInSide -= change;
             MoneyInTransaction = 0;
         }
@@ -75,6 +88,13 @@ namespace DomainDrivenDesign.Logic
         public virtual void LoadMoney(Money money)
         {
             MoneyInSide += money;
+        }
+
+        public virtual IReadOnlyList<SnackPile> GetAllSnackPiles()
+        {
+            return Slots
+                .OrderBy(s=>s.Position)
+                .Select(s => s.SnackPile).ToList();
         }
 
         private Slot GetSlot(int position)

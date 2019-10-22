@@ -25,9 +25,11 @@ namespace DomainDrivenDesign.UI
     {
         private readonly SnackMachine _snackMachine;
         public override string Caption => "Snack Machine";
+        private readonly SnackMachineRepository _SnackMachineRepository;
         public string MoneyInTransaction => _snackMachine.MoneyInTransaction.ToString();
 
-        public Money MoneyInside => _snackMachine.MoneyInSide + _snackMachine.MoneyInTransaction;
+
+        public decimal MoneyInside => _snackMachine.MoneyInSide.Amount + _snackMachine.MoneyInTransaction;
 
         private string _message = "";
         public string Message
@@ -52,7 +54,7 @@ namespace DomainDrivenDesign.UI
         public SnackMachineViewModel(SnackMachine snackMachine)
         {
             _snackMachine = snackMachine;
-
+            _SnackMachineRepository = new SnackMachineRepository();
             InsertCentCommand = new Command(() => InsertMoney(Money.Cent));
             InsertTenCentCommand = new Command(() => InsertMoney(Money.TenCent));
             InsertQuarterCommand = new Command(() => InsertMoney(Money.Quarter));
@@ -77,13 +79,8 @@ namespace DomainDrivenDesign.UI
 
         private void BuySnack()
         {
-            _snackMachine.BuySnack();
-            using (ISession session = SessionFactory.OpenSession())
-            using (ITransaction transaction = session.BeginTransaction())
-            {
-                session.SaveOrUpdate(_snackMachine);
-                transaction.Commit();
-            }
+            _snackMachine.BuySnack(1);
+            _SnackMachineRepository.Save(_snackMachine);
             NotifyClient("You have bought a snack");
         }
 
