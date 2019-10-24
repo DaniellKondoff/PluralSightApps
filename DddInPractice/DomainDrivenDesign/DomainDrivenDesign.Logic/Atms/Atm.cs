@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DomainDrivenDesign.Logic.Common;
+using System;
 
 namespace DomainDrivenDesign.Logic.Atms
 {
@@ -33,6 +34,8 @@ namespace DomainDrivenDesign.Logic.Atms
 
             decimal amountWithCommission = amount + amount * CommissionRate;
             MoneyCharged += amountWithCommission;
+
+            AddDomainEvent(new BalanceChangedEvent(amountWithCommission));
         }
 
         public virtual decimal CaluculateAmountWithCommission(decimal amount)
