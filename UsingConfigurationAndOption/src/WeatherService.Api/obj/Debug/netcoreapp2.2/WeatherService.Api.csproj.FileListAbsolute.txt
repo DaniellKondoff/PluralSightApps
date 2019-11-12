@@ -1,0 +1,16 @@
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\bin\Debug\netcoreapp2.2\WeatherService.Api.deps.json
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\bin\Debug\netcoreapp2.2\WeatherService.Api.runtimeconfig.json
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\bin\Debug\netcoreapp2.2\WeatherService.Api.runtimeconfig.dev.json
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\bin\Debug\netcoreapp2.2\WeatherService.Api.dll
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\bin\Debug\netcoreapp2.2\WeatherService.Api.pdb
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.csprojAssemblyReference.cache
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.RazorAssemblyInfo.cache
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.RazorAssemblyInfo.cs
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.AssemblyInfo.cs
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.RazorTargetAssemblyInfo.cache
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.dll
+D:\Program Files\GitHub\PluralSightApps\UsingConfigurationAndOption\src\WeatherService.Api\obj\Debug\netcoreapp2.2\WeatherService.Api.pdb
