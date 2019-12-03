@@ -1,0 +1,7 @@
+D:\PluralSight\CQRS in Practice\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\bin\Debug\netcoreapp2.1\Logic.deps.json
+D:\PluralSight\CQRS in Practice\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\bin\Debug\netcoreapp2.1\Logic.dll
+D:\PluralSight\CQRS in Practice\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\bin\Debug\netcoreapp2.1\Logic.pdb
+D:\PluralSight\CQRS in Practice\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfoInputs.cache
+D:\PluralSight\CQRS in Practice\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfo.cs
+D:\PluralSight\CQRS in Practice\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\obj\Debug\netcoreapp2.1\Logic.dll
+D:\PluralSight\CQRS in Practice\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\obj\Debug\netcoreapp2.1\Logic.pdb
