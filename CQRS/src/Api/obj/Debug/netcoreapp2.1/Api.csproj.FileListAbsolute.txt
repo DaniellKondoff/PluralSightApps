@@ -17,3 +17,22 @@ D:\PluralSight\CQRS in Practice\cqrs-in-practice\10\demos\CqrsInPractice\Before\
 D:\PluralSight\CQRS in Practice\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
 D:\PluralSight\CQRS in Practice\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Api\obj\Debug\netcoreapp2.1\Api.dll
 D:\PluralSight\CQRS in Practice\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Api\obj\Debug\netcoreapp2.1\Api.pdb
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\bin\Debug\netcoreapp2.1\Api.dll
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\bin\Debug\netcoreapp2.1\Api.pdb
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\bin\Debug\netcoreapp2.1\Logic.dll
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\bin\Debug\netcoreapp2.1\Logic.pdb
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.dll
+D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.pdb

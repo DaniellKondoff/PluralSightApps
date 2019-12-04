@@ -1,7 +1,8 @@
-﻿namespace Api.Dtos
+﻿namespace Logic.Dtos
 {
-    public class StudentTransferDto
+    public class StudentEnrollmentDto
     {
+
         public string Course { get; set; }
         public string Grade { get; set; }
     }

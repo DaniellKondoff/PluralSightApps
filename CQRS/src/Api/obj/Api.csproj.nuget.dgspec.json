@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PluralSight\\CQRS in Practice\\cqrs-in-practice\\10\\demos\\CqrsInPractice\\Before\\src\\Api\\Api.csproj": {}
+    "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Api\\Api.csproj": {}
   },
   "projects": {
-    "D:\\PluralSight\\CQRS in Practice\\cqrs-in-practice\\10\\demos\\CqrsInPractice\\Before\\src\\Api\\Api.csproj": {
+    "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PluralSight\\CQRS in Practice\\cqrs-in-practice\\10\\demos\\CqrsInPractice\\Before\\src\\Api\\Api.csproj",
+        "projectUniqueName": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "D:\\PluralSight\\CQRS in Practice\\cqrs-in-practice\\10\\demos\\CqrsInPractice\\Before\\src\\Api\\Api.csproj",
+        "projectPath": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\Kondoff\\.nuget\\packages\\",
-        "outputPath": "D:\\PluralSight\\CQRS in Practice\\cqrs-in-practice\\10\\demos\\CqrsInPractice\\Before\\src\\Api\\obj\\",
+        "outputPath": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\PluralSight\\CQRS in Practice\\cqrs-in-practice\\10\\demos\\CqrsInPractice\\Before\\src\\Logic\\Logic.csproj": {
-                "projectPath": "D:\\PluralSight\\CQRS in Practice\\cqrs-in-practice\\10\\demos\\CqrsInPractice\\Before\\src\\Logic\\Logic.csproj"
+              "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\Logic.csproj": {
+                "projectPath": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\Logic.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\PluralSight\\CQRS in Practice\\cqrs-in-practice\\10\\demos\\CqrsInPractice\\Before\\src\\Logic\\Logic.csproj": {
+    "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PluralSight\\CQRS in Practice\\cqrs-in-practice\\10\\demos\\CqrsInPractice\\Before\\src\\Logic\\Logic.csproj",
+        "projectUniqueName": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "D:\\PluralSight\\CQRS in Practice\\cqrs-in-practice\\10\\demos\\CqrsInPractice\\Before\\src\\Logic\\Logic.csproj",
+        "projectPath": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\Logic.csproj",
         "packagesPath": "C:\\Users\\Kondoff\\.nuget\\packages\\",
-        "outputPath": "D:\\PluralSight\\CQRS in Practice\\cqrs-in-practice\\10\\demos\\CqrsInPractice\\Before\\src\\Logic\\obj\\",
+        "outputPath": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
