@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Logic.Decorators
 {
-    class DatabaseRetryAttribute : Attribute
+    public class DatabaseRetryAttribute : Attribute
     {
         public DatabaseRetryAttribute()
         {

@@ -52,3 +52,30 @@ D:\Program Files\GitHub\PluralSightApps\CQRS\src\UI\obj\Debug\UI.csproj.Generate
 D:\Program Files\GitHub\PluralSightApps\CQRS\src\UI\obj\Debug\UI.csproj.CopyComplete
 D:\Program Files\GitHub\PluralSightApps\CQRS\src\UI\obj\Debug\UI.exe
 D:\Program Files\GitHub\PluralSightApps\CQRS\src\UI\obj\Debug\UI.pdb
+C:\MyCode\PluralSight\CQRS\src\UI\bin\Debug\UI.exe.config
+C:\MyCode\PluralSight\CQRS\src\UI\bin\Debug\UI.exe
+C:\MyCode\PluralSight\CQRS\src\UI\bin\Debug\UI.pdb
+C:\MyCode\PluralSight\CQRS\src\UI\bin\Debug\CSharpFunctionalExtensions.dll
+C:\MyCode\PluralSight\CQRS\src\UI\bin\Debug\Newtonsoft.Json.dll
+C:\MyCode\PluralSight\CQRS\src\UI\bin\Debug\Newtonsoft.Json.xml
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\App.baml
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\Common\CustomWindow.g.cs
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\Common\MainWindow.g.cs
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\MainWindow.g.cs
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\App.g.cs
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\UI_MarkupCompile.cache
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\UI_MarkupCompile.lref
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\Common\Common.baml
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\Common\CustomWindow.baml
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\Common\MainWindow.baml
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\Students\StudentView.baml
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\Students\StudentListView.baml
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\MainWindow.baml
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\UI.g.resources
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\UI.Properties.Resources.resources
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\UI.csproj.CopyComplete
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\UI.exe
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\UI.pdb

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Program Files\GitHub\PluralSightApps\CQRS\src\UI\obj\Debug\
+C:\MyCode\PluralSight\CQRS\src\UI\obj\Debug\
 UI
 none
 false
 DEBUG;TRACE
-D:\Program Files\GitHub\PluralSightApps\CQRS\src\UI\App.xaml
+C:\MyCode\PluralSight\CQRS\src\UI\App.xaml
 61670216210
 
 202065142562
-15-268771303
+15304732788
 Common\Common.xaml;Common\CustomWindow.xaml;Common\MainWindow.xaml;Students\StudentView.xaml;Students\StudentListView.xaml;MainWindow.xaml;
 
 False

@@ -13,3 +13,11 @@ D:\Program Files\GitHub\PluralSightApps\CQRS\src\Logic\obj\Debug\netcoreapp2.1\L
 D:\Program Files\GitHub\PluralSightApps\CQRS\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfo.cs
 D:\Program Files\GitHub\PluralSightApps\CQRS\src\Logic\obj\Debug\netcoreapp2.1\Logic.dll
 D:\Program Files\GitHub\PluralSightApps\CQRS\src\Logic\obj\Debug\netcoreapp2.1\Logic.pdb
+C:\MyCode\PluralSight\CQRS\src\Logic\bin\Debug\netcoreapp2.1\Logic.deps.json
+C:\MyCode\PluralSight\CQRS\src\Logic\bin\Debug\netcoreapp2.1\Logic.dll
+C:\MyCode\PluralSight\CQRS\src\Logic\bin\Debug\netcoreapp2.1\Logic.pdb
+C:\MyCode\PluralSight\CQRS\src\Logic\obj\Debug\netcoreapp2.1\Logic.csprojAssemblyReference.cache
+C:\MyCode\PluralSight\CQRS\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfoInputs.cache
+C:\MyCode\PluralSight\CQRS\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfo.cs
+C:\MyCode\PluralSight\CQRS\src\Logic\obj\Debug\netcoreapp2.1\Logic.dll
+C:\MyCode\PluralSight\CQRS\src\Logic\obj\Debug\netcoreapp2.1\Logic.pdb

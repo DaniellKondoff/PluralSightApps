@@ -36,3 +36,22 @@ D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api
 D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
 D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.dll
 D:\Program Files\GitHub\PluralSightApps\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\MyCode\PluralSight\CQRS\src\Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\MyCode\PluralSight\CQRS\src\Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\MyCode\PluralSight\CQRS\src\Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\MyCode\PluralSight\CQRS\src\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\MyCode\PluralSight\CQRS\src\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\MyCode\PluralSight\CQRS\src\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\MyCode\PluralSight\CQRS\src\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\MyCode\PluralSight\CQRS\src\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\MyCode\PluralSight\CQRS\src\Api\bin\Debug\netcoreapp2.1\Logic.dll
+C:\MyCode\PluralSight\CQRS\src\Api\bin\Debug\netcoreapp2.1\Logic.pdb
+C:\MyCode\PluralSight\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\MyCode\PluralSight\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\MyCode\PluralSight\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\MyCode\PluralSight\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\MyCode\PluralSight\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\MyCode\PluralSight\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\MyCode\PluralSight\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\MyCode\PluralSight\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\MyCode\PluralSight\CQRS\src\Api\obj\Debug\netcoreapp2.1\Api.pdb

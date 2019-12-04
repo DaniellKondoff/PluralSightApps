@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Api\\Api.csproj": {}
+    "C:\\MyCode\\PluralSight\\CQRS\\src\\Api\\Api.csproj": {}
   },
   "projects": {
-    "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Api\\Api.csproj": {
+    "C:\\MyCode\\PluralSight\\CQRS\\src\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\MyCode\\PluralSight\\CQRS\\src\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Api\\Api.csproj",
-        "packagesPath": "C:\\Users\\Kondoff\\.nuget\\packages\\",
-        "outputPath": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Api\\obj\\",
+        "projectPath": "C:\\MyCode\\PluralSight\\CQRS\\src\\Api\\Api.csproj",
+        "packagesPath": "C:\\Users\\dkondov\\.nuget\\packages\\",
+        "outputPath": "C:\\MyCode\\PluralSight\\CQRS\\src\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kondoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dkondov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,14 +25,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\Logic.csproj": {
-                "projectPath": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\Logic.csproj"
+              "C:\\MyCode\\PluralSight\\CQRS\\src\\Logic\\Logic.csproj": {
+                "projectPath": "C:\\MyCode\\PluralSight\\CQRS\\src\\Logic\\Logic.csproj"
               }
             }
           }
@@ -81,20 +80,20 @@
         }
       }
     },
-    "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\Logic.csproj": {
+    "C:\\MyCode\\PluralSight\\CQRS\\src\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\Logic.csproj",
+        "projectUniqueName": "C:\\MyCode\\PluralSight\\CQRS\\src\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\Logic.csproj",
-        "packagesPath": "C:\\Users\\Kondoff\\.nuget\\packages\\",
-        "outputPath": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\obj\\",
+        "projectPath": "C:\\MyCode\\PluralSight\\CQRS\\src\\Logic\\Logic.csproj",
+        "packagesPath": "C:\\Users\\dkondov\\.nuget\\packages\\",
+        "outputPath": "C:\\MyCode\\PluralSight\\CQRS\\src\\Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kondoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dkondov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -102,8 +101,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
