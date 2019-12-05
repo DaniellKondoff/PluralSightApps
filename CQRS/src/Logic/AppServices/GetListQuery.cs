@@ -1,8 +1,9 @@
-﻿using Logic.Dtos;
+﻿using Dapper;
+using Logic.Dtos;
 using Logic.Interfaces;
-using Logic.Students;
 using Logic.Utils;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 
 namespace Logic.AppServices
@@ -20,35 +21,38 @@ namespace Logic.AppServices
 
         public class GetListQueryHandler : IQueryHandler<GetListQuery, List<StudentDto>>
         {
-            private readonly UnitOfWork _unitOfWork;
-            public GetListQueryHandler(UnitOfWork unitOfWork)
+            private readonly QueriesConnectionString _connectionString;
+            public GetListQueryHandler(QueriesConnectionString connectionString)
             {
-                this._unitOfWork = unitOfWork;
+                this._connectionString = connectionString;
             }
 
             public List<StudentDto> Handle(GetListQuery query)
             {
-                var repository = new StudentRepository(_unitOfWork);
-                IReadOnlyList<Student> students = repository.GetList(query.EnrolledIn, query.NumberOfCourses);
-                List<StudentDto> dtos = students.Select(x => ConvertToDto(x)).ToList();
+                string sql = @"
+                    SELECT s.StudentID Id, s.Name, s.Email,
+	                    s.FirstCourseName Course1, s.FirstCourseCredits Course1Credits, s.FirstCourseGrade Course1Grade,
+	                    s.SecondCourseName Course2, s.SecondCourseCredits Course2Credits, s.SecondCourseGrade Course2Grade
+                    FROM dbo.Student s
+                    WHERE (s.FirstCourseName = @Course
+		                    OR s.SecondCourseName = @Course
+		                    OR @Course IS NULL)
+                        AND (s.NumberOfEnrollments = @Number
+                            OR @Number IS NULL)
+                    ORDER BY s.StudentID ASC";
 
-                return dtos;
-            }
-
-            private StudentDto ConvertToDto(Student student)
-            {
-                return new StudentDto
+                using (SqlConnection connection = new SqlConnection(_connectionString.Value))
                 {
-                    Id = student.Id,
-                    Name = student.Name,
-                    Email = student.Email,
-                    Course1 = student.FirstEnrollment?.Course?.Name,
-                    Course1Grade = student.FirstEnrollment?.Grade.ToString(),
-                    Course1Credits = student.FirstEnrollment?.Course?.Credits,
-                    Course2 = student.SecondEnrollment?.Course?.Name,
-                    Course2Grade = student.SecondEnrollment?.Grade.ToString(),
-                    Course2Credits = student.SecondEnrollment?.Course?.Credits,
-                };
+                    List<StudentDto> students = connection
+                        .Query<StudentDto>(sql, new
+                        {
+                            Course = query.EnrolledIn,
+                            Number = query.NumberOfCourses
+                        })
+                        .ToList();
+
+                    return students;
+                }
             }
         }
     }

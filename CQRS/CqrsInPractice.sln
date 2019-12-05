@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2026
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "src\Api\Api.csproj", "{2A7A6997-FF79-41A3-9A30-74FC226D822A}"
 EndProject
@@ -12,6 +12,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{937E5D49-13F7-4E72-8127-0A916CA9C894}"
 	ProjectSection(SolutionItems) = preProject
 		DatabaseInitial.sql = DatabaseInitial.sql
+		..\..\..\..\PluralSight\CQRS in Practice\cqrs-in-practice\10\demos\CqrsInPractice\After\DatabaseReads.sql = ..\..\..\..\PluralSight\CQRS in Practice\cqrs-in-practice\10\demos\CqrsInPractice\After\DatabaseReads.sql
 	EndProjectSection
 EndProject
 Global

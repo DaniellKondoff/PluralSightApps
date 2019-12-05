@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyCode\\PluralSight\\CQRS\\src\\Logic\\Logic.csproj": {}
+    "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\Logic.csproj": {}
   },
   "projects": {
-    "C:\\MyCode\\PluralSight\\CQRS\\src\\Logic\\Logic.csproj": {
+    "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyCode\\PluralSight\\CQRS\\src\\Logic\\Logic.csproj",
+        "projectUniqueName": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "C:\\MyCode\\PluralSight\\CQRS\\src\\Logic\\Logic.csproj",
-        "packagesPath": "C:\\Users\\dkondov\\.nuget\\packages\\",
-        "outputPath": "C:\\MyCode\\PluralSight\\CQRS\\src\\Logic\\obj\\",
+        "projectPath": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\Logic.csproj",
+        "packagesPath": "C:\\Users\\Kondoff\\.nuget\\packages\\",
+        "outputPath": "D:\\Program Files\\GitHub\\PluralSightApps\\CQRS\\src\\Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\dkondov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kondoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
@@ -45,6 +46,10 @@
               "target": "Package",
               "version": "[1.10.0, )"
             },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
             "FluentNHibernate": {
               "target": "Package",
               "version": "[2.1.2, )"
@@ -62,6 +67,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[11.0.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
             }
           },
           "imports": [

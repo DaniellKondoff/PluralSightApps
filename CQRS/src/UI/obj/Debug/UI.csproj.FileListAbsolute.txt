@@ -31,7 +31,6 @@ D:\Program Files\GitHub\PluralSightApps\CQRS\src\UI\bin\Debug\UI.pdb
 D:\Program Files\GitHub\PluralSightApps\CQRS\src\UI\bin\Debug\CSharpFunctionalExtensions.dll
 D:\Program Files\GitHub\PluralSightApps\CQRS\src\UI\bin\Debug\Newtonsoft.Json.dll
 D:\Program Files\GitHub\PluralSightApps\CQRS\src\UI\bin\Debug\Newtonsoft.Json.xml
-D:\Program Files\GitHub\PluralSightApps\CQRS\src\UI\obj\Debug\UI.csprojAssemblyReference.cache
 D:\Program Files\GitHub\PluralSightApps\CQRS\src\UI\obj\Debug\App.baml
 D:\Program Files\GitHub\PluralSightApps\CQRS\src\UI\obj\Debug\Common\CustomWindow.g.cs
 D:\Program Files\GitHub\PluralSightApps\CQRS\src\UI\obj\Debug\Common\MainWindow.g.cs
