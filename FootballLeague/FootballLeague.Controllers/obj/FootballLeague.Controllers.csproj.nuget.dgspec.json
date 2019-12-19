@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Controllers\\FootballLeague.Controllers.csproj": {}
+  },
+  "projects": {
+    "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Controllers\\FootballLeague.Controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Controllers\\FootballLeague.Controllers.csproj",
+        "projectName": "FootballLeague.Controllers",
+        "projectPath": "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Controllers\\FootballLeague.Controllers.csproj",
+        "packagesPath": "C:\\Users\\Kondoff\\.nuget\\packages\\",
+        "outputPath": "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Controllers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kondoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Services\\FootballLeague.Services.csproj": {
+                "projectPath": "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Services\\FootballLeague.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Data\\FootballLeague.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Data\\FootballLeague.Data.csproj",
+        "projectName": "FootballLeague.Data",
+        "projectPath": "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Data\\FootballLeague.Data.csproj",
+        "packagesPath": "C:\\Users\\Kondoff\\.nuget\\packages\\",
+        "outputPath": "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kondoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Services\\FootballLeague.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Services\\FootballLeague.Services.csproj",
+        "projectName": "FootballLeague.Services",
+        "projectPath": "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Services\\FootballLeague.Services.csproj",
+        "packagesPath": "C:\\Users\\Kondoff\\.nuget\\packages\\",
+        "outputPath": "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kondoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Data\\FootballLeague.Data.csproj": {
+                "projectPath": "D:\\Program Files\\GitHub\\PluralSightApps\\FootballLeague\\FootballLeague.Data\\FootballLeague.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

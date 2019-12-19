@@ -1,0 +1,8 @@
+D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Data\bin\Debug\netcoreapp3.0\FootballLeague.Data.deps.json
+D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Data\bin\Debug\netcoreapp3.0\FootballLeague.Data.dll
+D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Data\obj\Debug\netcoreapp3.0\FootballLeague.Data.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Data\obj\Debug\netcoreapp3.0\FootballLeague.Data.AssemblyInfo.cs
+D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Data\bin\Debug\netcoreapp3.0\FootballLeague.Data.pdb
+D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Data\obj\Debug\netcoreapp3.0\FootballLeague.Data.dll
+D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Data\obj\Debug\netcoreapp3.0\FootballLeague.Data.pdb
+D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Data\obj\Debug\netcoreapp3.0\FootballLeague.Data.csprojAssemblyReference.cache
