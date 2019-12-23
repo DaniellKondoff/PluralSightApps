@@ -11,3 +11,16 @@ D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Controllers
 D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Controllers\bin\Debug\netcoreapp3.0\FootballLeague.Services.pdb
 D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Controllers\bin\Debug\netcoreapp3.0\FootballLeague.Data.pdb
 D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Controllers\obj\Debug\netcoreapp3.0\FootballLeague.Controllers.csproj.CopyComplete
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Controllers\bin\Debug\netcoreapp3.0\FootballLeague.Controllers.deps.json
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Controllers\bin\Debug\netcoreapp3.0\FootballLeague.Controllers.dll
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Controllers\bin\Debug\netcoreapp3.0\FootballLeague.Controllers.pdb
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Controllers\bin\Debug\netcoreapp3.0\FootballLeague.Data.dll
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Controllers\bin\Debug\netcoreapp3.0\FootballLeague.Services.dll
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Controllers\bin\Debug\netcoreapp3.0\FootballLeague.Services.pdb
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Controllers\bin\Debug\netcoreapp3.0\FootballLeague.Data.pdb
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Controllers\obj\Debug\netcoreapp3.0\FootballLeague.Controllers.csprojAssemblyReference.cache
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Controllers\obj\Debug\netcoreapp3.0\FootballLeague.Controllers.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Controllers\obj\Debug\netcoreapp3.0\FootballLeague.Controllers.AssemblyInfo.cs
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Controllers\obj\Debug\netcoreapp3.0\FootballLeague.Controllers.csproj.CopyComplete
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Controllers\obj\Debug\netcoreapp3.0\FootballLeague.Controllers.dll
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Controllers\obj\Debug\netcoreapp3.0\FootballLeague.Controllers.pdb

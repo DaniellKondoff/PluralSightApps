@@ -1,9 +1,12 @@
-﻿using FootballLeague.Services.Interfaces;
+﻿using FootballLeague.Controllers.Models.Teams;
+using FootballLeague.Services.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
 namespace FootballLeague.Controllers
 {
+    [Authorize]
     public class TeamsController : Controller
     {
         private readonly ITeamService teamService;
@@ -12,9 +15,17 @@ namespace FootballLeague.Controllers
             this.teamService = teamService;
         }
 
-        public async Task<IActionResult> All()
+        [HttpGet]
+        public async Task<IActionResult> All(int page = 1)
         {
-            return this.Ok();
+            var allTeams = await this.teamService.All(page);
+
+            return View(new TeamListingViewModel
+            {
+                Teams = allTeams,
+                CurrentPage = page,
+                TotalTeams = await teamService.TotalAsync()
+            }) ;
         }
     }
 }

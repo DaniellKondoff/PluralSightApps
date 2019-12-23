@@ -1,6 +1,8 @@
+using AutoMapper;
 using FootballLeague.Data;
 using FootballLeague.Data.Models;
 using FootballLeague.Infrastructure;
+using FootballLeague.Services.Common;
 using FootballLeague.Services.Implementations;
 using FootballLeague.Services.Interfaces;
 using Microsoft.AspNetCore.Builder;
@@ -31,15 +33,21 @@ namespace FootballLeague
                         .AddDefaultUI()
                         .AddDefaultTokenProviders();
 
-            services.AddTransient<ITeamService, TeamService>();
+            services.IdentityOptionsConfiguration();
 
-            services.AddControllersWithViews();
+            services.AddConventionalServices();
+
+            services.AddControllersWithViews(options => options
+                     .AddAutoValidateAntiforgeryToken());
+
             services.AddRazorPages();
+
+            services.AddAutoMapper(typeof(IService).Assembly);
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            app.UseDatabaseMigration();
+            app.SeedData();
 
             app.UseExceptionHandling(env);
 

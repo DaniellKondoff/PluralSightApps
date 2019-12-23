@@ -9,3 +9,14 @@ D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Services\ob
 D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Services\bin\Debug\netcoreapp3.0\FootballLeague.Data.dll
 D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Services\bin\Debug\netcoreapp3.0\FootballLeague.Data.pdb
 D:\Program Files\GitHub\FootballLeague\FootballLeague\FootballLeague.Services\obj\Debug\netcoreapp3.0\FootballLeague.Services.csproj.CopyComplete
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Services\bin\Debug\netcoreapp3.0\FootballLeague.Services.deps.json
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Services\bin\Debug\netcoreapp3.0\FootballLeague.Services.dll
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Services\bin\Debug\netcoreapp3.0\FootballLeague.Services.pdb
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Services\bin\Debug\netcoreapp3.0\FootballLeague.Data.dll
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Services\bin\Debug\netcoreapp3.0\FootballLeague.Data.pdb
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Services\obj\Debug\netcoreapp3.0\FootballLeague.Services.csprojAssemblyReference.cache
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Services\obj\Debug\netcoreapp3.0\FootballLeague.Services.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Services\obj\Debug\netcoreapp3.0\FootballLeague.Services.AssemblyInfo.cs
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Services\obj\Debug\netcoreapp3.0\FootballLeague.Services.csproj.CopyComplete
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Services\obj\Debug\netcoreapp3.0\FootballLeague.Services.dll
+D:\Program Files\GitHub\PluralSightApps\FootballLeague\FootballLeague.Services\obj\Debug\netcoreapp3.0\FootballLeague.Services.pdb
