@@ -1,0 +1,5 @@
+obj\Debug\netcoreapp3.0/MeterReader.cs \
+obj\Debug\netcoreapp3.0/MeterReaderGrpc.cs: ../MeterReaderWeb/Proto/enums.proto\
+ C:/Users/Kondoff/.nuget/packages/grpc.tools/2.23.0/build/native/include/google/protobuf/timestamp.proto\
+ C:/Users/Kondoff/.nuget/packages/grpc.tools/2.23.0/build/native/include/google/protobuf/empty.proto\
+ ../MeterReaderWeb/Proto/MeterReader.proto

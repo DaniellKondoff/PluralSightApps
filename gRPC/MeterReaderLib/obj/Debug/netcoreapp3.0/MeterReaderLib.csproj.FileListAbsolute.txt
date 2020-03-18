@@ -1,0 +1,12 @@
+D:\Program Files\GitHub\PluralSightApps\gRPC\MeterReaderLib\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Program Files\GitHub\PluralSightApps\gRPC\MeterReaderLib\bin\Debug\netcoreapp3.0\MeterReaderLib.deps.json
+D:\Program Files\GitHub\PluralSightApps\gRPC\MeterReaderLib\bin\Debug\netcoreapp3.0\MeterReaderLib.dll
+D:\Program Files\GitHub\PluralSightApps\gRPC\MeterReaderLib\bin\Debug\netcoreapp3.0\MeterReaderLib.pdb
+D:\Program Files\GitHub\PluralSightApps\gRPC\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.csprojAssemblyReference.cache
+D:\Program Files\GitHub\PluralSightApps\gRPC\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\PluralSightApps\gRPC\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.AssemblyInfo.cs
+D:\Program Files\GitHub\PluralSightApps\gRPC\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.RazorTargetAssemblyInfo.cache
+D:\Program Files\GitHub\PluralSightApps\gRPC\MeterReaderLib\obj\Debug\netcoreapp3.0\staticwebassets\MeterReaderLib.StaticWebAssets.Manifest.cache
+D:\Program Files\GitHub\PluralSightApps\gRPC\MeterReaderLib\obj\Debug\netcoreapp3.0\staticwebassets\MeterReaderLib.StaticWebAssets.xml
+D:\Program Files\GitHub\PluralSightApps\gRPC\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.dll
+D:\Program Files\GitHub\PluralSightApps\gRPC\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.pdb
