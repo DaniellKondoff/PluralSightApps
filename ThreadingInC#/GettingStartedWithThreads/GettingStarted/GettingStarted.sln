@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStarted", "GettingStarted\GettingStarted.csproj", "{316028DC-21E6-4B33-B513-05E97093FFE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{845B68B1-C5E5-4867-B66A-402E5B77CFDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPooling", "ThreadPooling\ThreadPooling.csproj", "{E885A886-B71E-4383-BD7F-E1582CEFFE38}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{316028DC-21E6-4B33-B513-05E97093FFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316028DC-21E6-4B33-B513-05E97093FFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316028DC-21E6-4B33-B513-05E97093FFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316028DC-21E6-4B33-B513-05E97093FFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845B68B1-C5E5-4867-B66A-402E5B77CFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845B68B1-C5E5-4867-B66A-402E5B77CFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845B68B1-C5E5-4867-B66A-402E5B77CFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845B68B1-C5E5-4867-B66A-402E5B77CFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E885A886-B71E-4383-BD7F-E1582CEFFE38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E885A886-B71E-4383-BD7F-E1582CEFFE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E885A886-B71E-4383-BD7F-E1582CEFFE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E885A886-B71E-4383-BD7F-E1582CEFFE38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
